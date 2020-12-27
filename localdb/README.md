@@ -28,3 +28,6 @@ DataStoreCRD().check_delete_data(key, db_path)
 We can use this db as api also by requesting to particular endpoints.  
 Examples  
 curl -v http://localhost:8000/datastore/read?key="abc"  For reading value associated with key "abc"  
+
+## Tests  
+In Tests folder we have three test files for checking CRD operations  
