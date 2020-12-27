@@ -1,4 +1,4 @@
-# owndb:- Simple key-value datastore  
+# OwnDB:- Simple key-value datastore  
 
 ## Steps to install library to local machine  
 1) First clone or download repository  
