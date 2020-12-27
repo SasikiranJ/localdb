@@ -4,6 +4,9 @@
 1) First clone or download repository  
 2) Then simply run ** python setup.py install ** command to build library.  
 
+## Environment Supported   
+1) Linux  
+
 ## API based utility
 we can use this db as api also by requesting to particular endpoints.  
 Examples  
